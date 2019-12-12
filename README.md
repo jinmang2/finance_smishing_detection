@@ -6,7 +6,7 @@
 - nlp, language model등을 연습하고 Transformer 모델을 활용하는 법을 익혀 업무에 적용할 기반을 다진다.
 
 ### Scores
-- CountVectorizer + Gaussian Naive Bayse : 82.744%
+- CountVectorizer + Gaussian Naive Bayes : 82.744%
 - Wordpiece Tokenizing + BERT(mxnet, gluonnlp) Adjust Ensemble : 90.685%
 
 ### Metric
