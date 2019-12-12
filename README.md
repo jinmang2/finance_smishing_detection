@@ -7,4 +7,4 @@
 
 ### Scores
 - TF-IDF + Gaussian Naive Bayse : 82.744%
-- Wordpiece Tokenizing + BERT(mxnet, gluonnlp) : 90.685%
+- Wordpiece Tokenizing + BERT(mxnet, gluonnlp) Adjust Ensemble : 90.685%
