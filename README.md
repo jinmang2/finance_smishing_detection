@@ -11,4 +11,4 @@
 
 ### Metric
 - AUC
-![title](https://dacon.io/files/attach/images/226604/611/226/dc25828d82b3c5f5e2e2e2fc48e95c4c.PNG)
+![title](https://github.com/jinmang2/finance_smishing_detect/blob/master/img/dacon_evaluation.png?raw=true)
